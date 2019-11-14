@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1,h2,h3,h4,h5,h6,blockquote,pre,p{
+  margin-block-start: 0.2em;
+  margin-block-end: 0.2em;
+}
+
+.editorClassName{
+  min-height : 150px;
+  max-height : 500px
+}
+
+.wrapperClassName{
+  margin: 10px;
+}
+
+.title{
+  margin: 10px;
+  width: 97%;
+  height: 31px;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.get-details{
+	float: left;
+  font-size: xx-large;
+  margin: 10px 10px 10px 10px;
+  position: absolute;
+  left: 50px;
+  top: 20px;
+}
+
+.list{
+	float: left;
+  font-size: xx-large;
+  margin: 10px 10px 10px 10px;
+  position: absolute;
+  left: 50px;
+  top: 20px;
+}
+
+.blog{
+  float: left;
+  font-size: xx-large;
+  margin: 10px 10px 10px 10px;
+  position: absolute;
+  left: 50px;
+  top: 20px;
+}
+
+.post-list{
+  margin: 10px;
+  min-width: 500px;
+  border: 1px solid #d4d3d1;
+  background: #d4d3d1;
+  cursor: pointer;
+}
+
+.input-list{
+  width: 100%;
+  height: 30px;
+  font-size: large;
+  margin: 10px;
+}
+
+button{
+  margin: 0.5rem 0.5rem;
+  height: 24px;
+  width: 75px;
+  font-weight: bolder;
+  border-radius: 5px;
+  color: black;
+  border-color: #afb2b3;
+  background-color: #afb2b3;
+}
+
+.name-value{
+  margin: 0.5rem 0.5rem;
+  width: 97.5%;
+  height: 28px;
+  font-size: large;
+}
+
+.text-editor {
+  margin: 0.5rem 0.5rem;
+  border: 1px solid #e8e8e8;
+}
+
+.editorClassName.public-DraftStyleDefault-block {
+  margin: 1em 0 !important ;
+}
+
